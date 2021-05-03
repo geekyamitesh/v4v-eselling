@@ -26,11 +26,11 @@ This is the logo which was designed using Canva.
 
 ### Landing Page
 This is the landing page of our website which is the first thing the user see when they visit the website.
-![](img/layout.png)
+![](img/layout.PNG)
 
 ### Header
 The header section contains zip code,shop,contact and sign in buttons. It also contains a shopping cart where user can see the number of item present in their shopping bag.
-![](img/header.png)
+![](img/header.PNG)
 
 ## Built with 
 
@@ -46,8 +46,8 @@ The header section contains zip code,shop,contact and sign in buttons. It also c
 - Implement a payment gateway so that user can get through the payment process easily.
 
 ## Team
-- Amitesh Mani Tiwari
+- [Amitesh Mani Tiwari](https://github.com/geekyamitesh)
 - Md Asif Zafar
-- Pratibha Rawat
+- [Pratibha Rawat](https://github.com/Pratibha-Rawat)
 - Nandni
 
