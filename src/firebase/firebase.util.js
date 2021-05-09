@@ -4,12 +4,12 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const config = {
-  apiKey: "AIzaSyBJksL78CxvzJJ2yFAUjpdSMCnSdUZm0lY",
-  authDomain: "v4v-eselling-6130e.firebaseapp.com",
-  projectId: "v4v-eselling-6130e",
-  storageBucket: "v4v-eselling-6130e.appspot.com",
-  messagingSenderId: "507385116116",
-  appId: "1:507385116116:web:882d51c4099126caf31241",
+  apiKey: "AIzaSyAQjqfsh6414y6SdXazxCh2B1XfDORtOXY",
+  authDomain: "v4vwebsites.firebaseapp.com",
+  projectId: "v4vwebsites",
+  storageBucket: "v4vwebsites.appspot.com",
+  messagingSenderId: "489841222117",
+  appId: "1:489841222117:web:2414cc9595dd05b8b88f0c",
 };
 
 firebase.initializeApp(config);
