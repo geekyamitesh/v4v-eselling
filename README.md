@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# V4V E-Selling Website
+<table>
+<tr>
+<td>
+  V4V is an E-commerce website which primarily focus on selling the products by locals vendors and small business owners who cannot bear the cost of maintaing the website and are not familiar with the technologies to operate the website. 
+</td>
+</tr>
+</table>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Problem Statement
+Due to outbreak of the Covid-19 pandemic, these vendors and small businessman have lost their source of income.They are getting huge competition from e-commerce websites
+and digitalization. In Delhi, out of roughly 300,000 street vendors, only about 131,00 have some form of occupational identification.Extortion by local police and municipal authorities.
 
-## Available Scripts
+## Our Objective
+The main objective of our project is to create a website where the products manufactured by local vendors are sold. The project revolves around the tagline “VOCAL FOR LOCAL” and thus the name V4V which means “Vocal For Vendors”. The main focus will remain to promote the products of local vendors and small businesses so their product and business reach out to maximum people. 
 
-In the project directory, you can run:
+## Demo
+Here is a working live demo : https://v4v-live.herokuapp.com/
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Site
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Logo
+This is the logo which was designed using Canva.
+<img src="img/Logo.png" width="200">
 
-### `yarn test`
+### Landing Page
+This is the landing page of our website which is the first thing the user see when they visit the website.
+![](img/layout.PNG)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Header
+The header section contains zip code,shop,contact and sign in buttons. It also contains a shopping cart where user can see the number of item present in their shopping bag.
+![](img/header.PNG)
 
-### `yarn build`
+## Built with 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [React](https://reactjs.org/docs/getting-started.html) - Reacts helps to make single page web applications. This means that the page will not load again and again while the user explore the website or go from one page to another.
+- [SASS](https://sass-lang.com/documentation) - Sass is a stylesheet language that’s compiled to CSS. It allows you to use variables, nested rules, mixins, functions, and more, all with a fully CSS-compatible syntax.
+- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+- Google Firebase
+- Context API
+- Stripe API - For payment interface testing.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## To-do
+- Complete the functionality of Zip Code.
+- Implement a payment gateway so that user can get through the payment process easily.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Team
+- [Amitesh Mani Tiwari](https://github.com/geekyamitesh)
+- Md Asif Zafar
+- [Pratibha Rawat](https://github.com/Pratibha-Rawat)
+- Nandni
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
